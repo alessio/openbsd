@@ -1,0 +1,16 @@
+PKGS=$(cat <<EOF
+git
+go
+micro
+nano
+xfce
+xfce-extras
+consolekit2
+slim
+slim-themes
+paper-gtk-theme
+paper-icon-theme
+EOF
+)
+
+echo pkg_add $PKGS
