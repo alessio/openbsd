@@ -1,13 +1,14 @@
 PKGS=$(cat <<EOF
+awesome
+consolekit2
 git
 go
 micro
 nano
+pkg_mgr
+qemu-ga
 xfce
 xfce-extras
-consolekit2
-slim
-slim-themes
 paper-gtk-theme
 paper-icon-theme
 EOF
