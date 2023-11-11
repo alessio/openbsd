@@ -21,12 +21,12 @@ touch /etc/login.conf
 cat >>/etc/login.conf <<EOF
 
 staff:\
-  :datasize-cur=1024M:\
-  :datasize-max=8192M:\
+  :datasize-cur=infinity:\
+  :datasize-max=infinity:\
   :maxproc-cur=512:\
   :maxproc-max=1024:\
-  :openfiles-cur=4096:\
-  :openfiles-max=8192:\
+  :openfiles-cur=102400:\
+  :openfiles-max=102400:\
   :stacksize-cur=32M:\
   :ignorenologin:\
   :requirehome@:\
