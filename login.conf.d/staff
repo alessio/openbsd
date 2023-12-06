@@ -1,0 +1,11 @@
+staff:\
+  :datasize-cur=infinity:\
+  :datasize-max=infinity:\
+  :maxproc-cur=512:\
+  :maxproc-max=1024:\
+  :openfiles-cur=102400:\
+  :openfiles-max=102400:\
+  :stacksize-cur=32M:\
+  :ignorenologin:\
+  :requirehome@:\
+  :tc=default:
