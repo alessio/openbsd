@@ -7,3 +7,4 @@ OpenBSD tools
 * https://i-bsd.com/openbsd-first-steps/#google_vignette
 * https://www.lounge.se/XFCEOpenBSD
 * https://www.c0ffee.net/blog/openbsd-on-a-laptop#chromium
+* https://romanzolotarev.com/openbsd/yubikey.html
