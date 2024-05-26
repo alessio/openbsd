@@ -1,5 +1,5 @@
 cp sysctl.conf /etc
-cp login.conf.d/* /etc/login.comf.d/
+cp login.conf.d/* /etc/login.conf.d/
 
 touch /etc/doas.conf
 echo 'permit nopass keepenv :wheel' >> /etc/doas.conf
